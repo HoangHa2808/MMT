@@ -1,0 +1,25 @@
+Họ và tên: Đoàn Cao Nhật Hạ
+MSSV: 2012353
+Lớp: CTK44A
+
+
+Phần II:
+C1:
+Địa chỉ IPv4 có 5 lớp. Địa chỉ loopback IPv4 là 127.0.0.1
+
+C2:
+
+
+C3: 192.168.192.0/19
+
+      1100 0000 1010 0100 110|0 0000 0000 0000
+/19 : 1111 1111 1111 1111 1110 0000 0000 0000
+
+Broadcast : 192.168.223.255
+
+C4:
+Vì địa chỉ 16xxxxx là vùng địa chỉ riêng mà Microsoft dùng để gán địa chỉ IP mặc định khi không lấy được địa chỉ IP từ server DHCP.
+
+C5:
+
+C6:

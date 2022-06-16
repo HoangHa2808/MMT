@@ -1,0 +1,23 @@
+B2:
+- Xuất hiện S1>
+B3: 
+ a) S1> ?
+    Lệnh bắt đầu bằng chữ "C" là : connect
+ b) S1> t?
+    Lệnh sẽ được hiển thị là: telnet terminal traceroute
+ c) S1> te?
+    Lệnh sẽ được hiển thị là: telnet terminal
+Phần 2: 
+B1: 
+ b) Thông tin sẽ đc hiển thị :
+	* S1>en<Tab> : S1> enable / S1#
+	* S1> te<Tab> : S1#te
+ c) S1> enable : S1#
+ d) Các câu lệnh bắt đầu bằng chữ "C" : clear, clock, connect, copy
+
+B2: 
+ a) Nhập lệnh configure xuất hiện: S1(config)#
+
+B3: 
+ 1) Sử dụng lệnh clock: 
+	 

@@ -1,0 +1,437 @@
+﻿----------------------- Page 1-----------------------
+
+                              Lab 01: ĐỊA CHỈ IPv4  
+
+Hướng dẫn chung:  
+
+                                                                                                     
+
+Thành phần IPv4:  
+
+----------------------- Page 2-----------------------
+
+                                                                                                                   
+
+Bài tập 1:   
+
+                                                                                                                                         
+
+----------------------- Page 3-----------------------
+
+           
+
+----------------------- Page 4-----------------------
+
+           
+
+----------------------- Page 5-----------------------
+
+           
+
+             
+
+----------------------- Page 6-----------------------
+
+           
+
+----------------------- Page 7-----------------------
+
+           
+
+----------------------- Page 8-----------------------
+
+           
+
+----------------------- Page 9-----------------------
+
+Bài tập mẫu:  
+
+Số lượng mạng con yêu cầu : 14  
+
+Số lượng địa chỉ sử dụng cho host : 14  
+
+Địa chỉ mạng ban đầu: 192.10.10.0  
+
+Đây là địa chỉ lớp : C  
+
+Subnet Mask mặc định là : 255.255.255.0  
+
+Subnet Mask thỏa yêu cầu : 255.255.255.240  
+
+Tổng số lượng subnet tạo ra : 16  
+
+Tổng số lượng địa chỉ cho host tạo ra là : 16  
+
+Tổng số lượng địa chỉ sử dụng được cho host là: 14  
+
+Số bit mượn từ subnet mask ban đầu là : 4  
+
+Phần 1: Sinh viên hoàn tất dạng bài tập sau:  
+
+Bài tập 1:  
+Số lượng mạng con yêu cầu : 1000  
+Số lượng địa chỉ sử dụng cho host : 60  
+Địa chỉ mạng ban đầu: 165.100.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:   
+Số bit mượn từ subnet mask ban đầu là:   
+Bài tập 2:  
+Network Address: 148.75.0.0 /26  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:   
+Số bit mượn từ subnet mask ban đầu là:   
+Bài tập 3:   
+
+----------------------- Page 10-----------------------
+
+Số lượng mạng con yêu cầu : 6  
+Số lượng địa chỉ sử dụng cho host : 30  
+Địa chỉ mạng ban đầu: 210.100.56.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+Bài tập 4:   
+Số lượng mạng con yêu cầu : 6  
+Số lượng địa chỉ sử dụng cho host : 30  
+Địa chỉ mạng ban đầu: 195.85.8.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+Bài tập 5:  
+Số lượng mạng con yêu cầu : 126  
+Số lượng địa chỉ sử dụng cho host : 131070  
+Địa chỉ mạng ban đầu: 118.0.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+Bài tập 6:  
+Số lượng mạng con yêu cầu : 2000  
+Số lượng địa chỉ sử dụng cho host : 15  
+Địa chỉ mạng ban đầu: 178.100.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+
+----------------------- Page 11-----------------------
+
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+  
+  
+Bài tập 7:   
+Số lượng mạng con yêu cầu : 3  
+Số lượng địa chỉ sử dụng cho host : 45  
+Địa chỉ mạng ban đầu: 200.175.14.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+Bài tập 8:  
+Số lượng mạng con yêu cầu : 60  
+Số lượng địa chỉ sử dụng cho host : 1000  
+Địa chỉ mạng ban đầu: 128.77.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+Bài tập 9:  
+Số lượng địa chỉ sử dụng cho host : 60  
+Địa chỉ mạng ban đầu: 198.100.10.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+Bài tập 10:  
+Số lượng mạng con cần: 250  
+Địa chỉ mạng ban đầu: 101.0.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+
+----------------------- Page 12-----------------------
+
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+  
+Bài tập  11:  
+Số lượng mạng con cần : 5  
+Địa chỉ mạng ban đầu: 218.35.50.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Bài tập 12 :  
+Số lượng địa chỉ sử dụng cho host : 25  
+Địa chỉ mạng ban đầu: 218.35.50.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+Bài tập 12 :  
+Số lượng mạng con cần : 10  
+Địa chỉ mạng ban đầu: 172.59.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là:  
+Bài tập 13:  
+Số lượng địa chỉ sử dụng cho host : 50  
+Địa chỉ mạng ban đầu: 172.59.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+
+----------------------- Page 13-----------------------
+
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+ Bài tập 14:  
+Số lượng địa chỉ sử dụng cho host : 29  
+Địa chỉ mạng ban đầu: 23.0.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Bài tập 15:   
+Số lượng mạng con cần: 750  
+Địa chỉ mạng ban đầu: 190.35.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :   
+  
+Phần 2: Sinh viên hoàn tất dạng bài tập sau:  
+
+Bài tập 1:   
+
+Số lượng mạng con yêu cầu : 14  
+Số lượng địa chỉ sử dụng cho host : 14  
+Địa chỉ mạng ban đầu: 192.10.10.0  
+Đây là địa chỉ lớp :   
+Subnet Mask mặc định là :   
+Subnet Mask thỏa yêu cầu :   
+Tổng số lượng subnet tạo ra :   
+Tổng số lượng địa chỉ cho host tạo ra là :   
+Tổng số lượng địa chỉ sử dụng được cho host là:   
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ tư là :   
+Địa chỉ mạng của mạng thứ 8 là :   
+Địa chỉ Broadcast của mạng thứ  13 là :   
+Vùng địa chỉ gán được cho host của mạng thứ 9 là :   
+
+----------------------- Page 14-----------------------
+
+Bài tập 2:  
+Số lượng mạng con yêu cầu : 1000  
+Số lượng địa chỉ sử dụng cho host : 60  
+Địa chỉ mạng ban đầu: 165.100.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ  15 là :  
+Địa chỉ mạng của mạng thứ 6 là :  
+Địa chỉ Broadcast của mạng thứ 6 là :  
+Vùng địa chỉ gán được cho host của mạng thứ 9 là :  
+Bài tập 2:  
+Số lượng mạng con yêu cầu : 2  
+Địa chỉ mạng ban đầu: 195.223.50.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ 3 là :  
+Địa chỉ mạng của mạng thứ 2 là :  
+Địa chỉ Broadcast của mạng thứ  1 là :  
+Vùng địa chỉ gán được cho host của mạng thứ 3 là :  
+Bài tập 3:  
+Số lượng mạng con yêu cầu : 750  
+Địa chỉ mạng ban đầu: 190.35.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+
+----------------------- Page 15-----------------------
+
+Vùng của địa chỉ mạng thứ  15 là :  
+Địa chỉ mạng của mạng thứ  13 là :  
+Địa chỉ Broadcast của mạng thứ  10 là :  
+Vùng địa chỉ gán được cho host của mạng thứ 6 là :  
+Bài tập 4:  
+Số lượng địa chỉ host yêu cầu : 6  
+Địa chỉ mạng ban đầu: 126.0.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ 2 là :  
+Địa chỉ mạng của mạng thứ 5 là :  
+Địa chỉ Broadcast của mạng thứ 7 là :  
+Vùng địa chỉ gán được cho host của mạng thứ  10 là :  
+Bài tập 5:  
+Số lượng mạng con yêu cầu : 10  
+Địa chỉ mạng ban đầu: 192.70.10.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ 9 là :  
+Địa chỉ mạng của mạng thứ 4 là :  
+Địa chỉ Broadcast của mạng thứ  12 là :  
+Vùng địa chỉ gán được cho host của mạng thứ  10 là :  
+Bài tập 6:  
+Địa chỉ mạng ban đầu: 10.0.0.0/16  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+
+----------------------- Page 16-----------------------
+
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ  11 là :  
+Địa chỉ mạng của mạng thứ 6 là :  
+Địa chỉ Broadcast của mạng thứ 2 là :  
+Vùng địa chỉ gán được cho host của mạng thứ 9 là :  
+Bài tập 7:  
+Số lượng mạng con yêu cầu : 5  
+Địa chỉ mạng ban đầu: 172.50.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ 4 là :  
+Địa chỉ mạng của mạng thứ 5 là :  
+Địa chỉ Broadcast của mạng thứ 6 là :  
+Vùng địa chỉ gán được cho host của mạng thứ 3 là :  
+Bài tập 8:  
+Số lượng địa chỉ sử dụng cho host: 28  
+Địa chỉ mạng ban đầu: 172.50.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ 2 là :  
+Địa chỉ mạng của mạng thứ  10 là :  
+Địa chỉ Broadcast của mạng thứ 4 là :  
+Vùng địa chỉ gán được cho host của mạng thứ 6 là :  
+Bài tập 9:  
+Số lượng mạng con yêu cầu : 45  
+Địa chỉ mạng ban đầu: 220.100.100.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+
+----------------------- Page 17-----------------------
+
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ 5 là :  
+Địa chỉ mạng của mạng thứ 4 là :  
+Địa chỉ Broadcast của mạng thứ  13 là :  
+Vùng địa chỉ gán được cho host của mạng thứ  12 là :  
+Bài tập 10:  
+Số lượng địa chỉ sử dụng cho host: 8000  
+Địa chỉ mạng ban đầu: 135.70.0.0  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ 6 là :  
+Địa chỉ mạng của mạng thứ 7 là :  
+Địa chỉ Broadcast của mạng thứ 3 là :  
+Vùng địa chỉ gán được cho host của mạng thứ 5 là :  
+Bài tập 11:  
+Địa chỉ mạng ban đầu: 93.0.0.0/19  
+Đây là địa chỉ lớp :  
+Subnet Mask mặc định là :  
+Subnet Mask thỏa yêu cầu :  
+Tổng số lượng subnet tạo ra :  
+Tổng số lượng địa chỉ cho host tạo ra là :  
+Tổng số lượng địa chỉ sử dụng được cho host là:  
+Số bit mượn từ subnet mask ban đầu là :  
+Vùng của địa chỉ mạng thứ  15 là :  
+Địa chỉ mạng của mạng thứ 9 là :  
+Địa chỉ Broadcast của mạng thứ 7 là :  
+Vùng địa chỉ gán được cho host của mạng thứ  12 là :  
+      Sinh viên nộp l ài bài tập cho th ầy Qua n trên link (thầy s ẽ thông báo sau)  
+Làm tiếp bài Lab Packet Tracer (Lab 02 – Dia Chi IPv4.pkat)  

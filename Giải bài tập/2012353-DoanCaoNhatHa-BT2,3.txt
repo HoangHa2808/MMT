@@ -1,0 +1,57 @@
+Họ tên: Đoàn Cao Nhật Hạ
+MSSV: 2012353
+
+BÀI TẬP 2:
+ 
+•Địa chỉ MAC đích là bao nhiêu: b0 be 76 df cc 34
+Hãy cho biết số OUI của vendor nào: TP-LINK TECHNOLOGIES CO.,LTD (b0 be 76)
+ • Địa chỉ MAC nguồn là bao nhiêu: 00 08 ca 33 69 fa
+Hãy cho biết số OUI của vendor nào:  TwinHan Technology Co.,Ltd (00 08 ca) 
+•	Ethernet Frame có Type là gì:  0800 Ipv4
+•	Nếu Frame là IP hãy phân tích tiếp các trường sau:  
+•	Version: 4
+•	IHL: 5 
+•	TOS: 00
+•	Total Length: 00 3d
+• Identifier:  d1 ad
+• F1: don’t fragment
+• F0: 0000000000000
+TTL: 128 = 80
+Dựa trên số TTL hãy dự đoán hệ điều hành của gói tin này bằng bảng 1. 
+Hệ điều hành dự đoán: Windows XP, 7, 8, 2003, 2008
+•	Protocol: UDP(11 đổi hệ 16)
+•	CheckSum: d8 ba
+•	Source Address (hệ 10): 192.168.0.101 (c0 a8 00 65)
+•	Destination Address (hệ 10): 74.125.68.189 (4a 7d 44 bd)
+•	Nếu là UDP hãy cho biết các trường sau:  
+•	Port Source: ccce (52430)
+        Port Destination: 01bb (443)
+Lưu ý: nếu Port Source hoặc Port Dest có vùng port nằm trong bảng Port Number Associated Services, sinh viên hãy cho biết service liên quan là service nào
+
+
+
+BÀI TẬP 3:
+ 
+•	Địa chỉ MAC đích là bao nhiêu: b0 be 76 df cc 34
+Hãy cho biết số OUI của vendor nào: TP-LINK TECHNOLOGIES CO.,LTD (b0 be 76)
+ • 	Địa chỉ MAC nguồn là bao nhiêu: 00 08 ca 33 69 fa
+Hãy cho biết số OUI của vendor nào:  TwinHan Technology Co.,Ltd (00 08 ca) 
+•	Ethernet Frame có Type là gì:  0800 Ipv4
+•	Nếu Frame là IP hãy phân tích tiếp các trường sau:  
+•	Version: 4
+•	IHL: 5 
+•	TOS: 00
+•	Total Length: 00 3c
+• 	Identifier:  28 16
+• 	F1: Reserved
+•	F0: 0000000000000
+TTL: 128 = 80 
+Hệ điều hành dự đoán: Windows XP, 7, 8, 2003, 2008
+•	Protocol: ICMP (01 đổi hệ 16)
+•	CheckSum: 41 8e
+•	Source Address (hệ 10): 192.168.0.101 (c0 a8 00 65)
+•	Destination Address (hệ 10): 8.8.8.8 (08 08 08 08)
+•	Nếu là ICMP hãy cho biết đây là ICMP Request hay Response :
+  Đây là ICMP Request vì = 8
+
+

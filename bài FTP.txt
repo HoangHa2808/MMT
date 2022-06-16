@@ -1,0 +1,26 @@
+PC0 has an FTP client which is used to read, write, delete and rename files present in the FTP server.
+
+Test FTP Write
+1. From PC0, open the Desktop command prompt and type the command "ftp www.ftpserver.com".
+2. Enter the username and password as cisco (defaults), on success it will enter into the "ftp" prompt.
+2. Type the command "put sampleFile.txt".
+3. From Server0, open the FTP configuration page and view the file "sampleFile.txt" uploaded.
+
+Test FTP Read and Directory listing
+1. In the ftp prompt, type "get <remote filename>", make sure <remote filename> exists on the FTP server
+2. Type "quit" command to exit from from the ftp prompt.
+3. Type "dir" to view the file <remote filename> that was downloaded.
+
+Test FTP Remote Directory listing
+    In the ftp prompt, type "dir" to view the files in remote FTP server directory.
+
+Test FTP Rename
+1. In the ftp prompt, type "rename <old remote filename> <new remote filename>".
+2. If renamed succesfully then type "dir" to view the change.
+
+Test FTP Delete
+1. In the ftp prompt, type "delete <filename>" to delete a file from the remote FTP server.
+2. If deleted succesfully then type "dir" to view the change.
+
+Test FTP Quit
+    In the ftp prompt, type "quit" to exit from the ftp prompt and return to the previous prompt.

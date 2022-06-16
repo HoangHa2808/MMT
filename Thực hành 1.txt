@@ -1,0 +1,82 @@
+C1: 
+Địa chỉ MAC nguồn: 00 17 95 f5 d5 42
+Và đích của frame: 30 85 a9 1a b3 db
+Frame này chứa gói tin IP. Giải thích: 08 00 = DoD Internet (IPv4)
+o Nếu là IP cho biết: IP nguồn: 
+			 đích:  
+Ver: 4
+IHL: 5
+TOS: 00
+Total Length: 00 28
+Identifier: b6 3f
+F1: 
+F0: 
+TTL có giá trị hệ 10 là 80 = 128
+
+- Frame này là TCP (06)
+Protocol: 06
+Checksum: 00 00
+Port nguồn: 10.0.49.193 (0a 00 31 c1)
+     đích: 117.2.82.68 (75 02 52 44)
+
+C2: 
+Mô tả đặc điểm của giao thức UDP: 
+
+Nếu cách thức xử lý mất dữ liệu của UDP
+
+
+C3:
+- Có 8 broadcast domain trong mô hình mạng trên?
+- Vai trò của thiết bị Router trong mạng là gì?
+- Cho địa chỉ IP 10.14.0.0/24 chia mạng theo classful cho mô hình mạng trên.
+- Cho địa chỉ 192.168.0.0 chia mạng theo VLSM cho mô hình mạng trên:
+220:  192.168.0.0/21
+      host: 192.168.0.0 - 190.150.23.126
+      Broadcast: 190.150.23.127
+      SM: 255.255.255.128
+120:  190.150.23.128/26
+      host: 190.150.23.129 - 190.150.23.190
+     Broadcast: 190.150.23.191
+     SM: 255.255.255.192
+50:  190.150.23.192/28
+     host: 190.150.23.193 - 190.150.23.206
+     Broadcast: 190.150.23.207
+     SM: 255.255.255.240
+30:  190.150.23.208/28
+     host: 190.150.23.209 - 190.150.23.222
+     Broadcast: 190.150.23.223
+     SM: 255.255.255.240
+2:   190.150.23.224/30
+     host: 190.150.23.225 - 190.150.23.226
+     Broadcast: 190.150.23.227
+     SM: 255.255.255.252
+2:   190.150.23.228/30
+     host: 190.150.23.229 - 190.150.23.230
+     Broadcast: 190.150.23.231
+     SM: 255.255.255.252
+2:   190.150.23.232/30
+     host: 190.150.23.233 - 190.150.23.234
+     Broadcast: 190.150.23.235
+     SM: 255.255.255.252
+2:
+	    
+
+Câu 4: 
+Cho địa chỉ IPv6 2021:dba:acad::/48 
+Có thể tạo được 2^16 mạng con /64. 
+Hãy liệt kê 4 mạng đầu tiên:
+	    2021:dba:acad::/64
+	    2021:dba:acad:0001::/64
+	    2021:dba:acad:0002::/64
+	    2021:dba:acad:0003::/64
+
+	    4 mạng cuối cùng:
+	    2021:dba:acad:FFFC::/64
+	    2021:dba:acad:FFFD::/64
+	    2021:dba:acad:FFFE::/64
+	    2021:dba:acad:FFFF::/64
+	    
+C5:
+Mô tả tóm tắt các giao thức của tầng ứng dụng mà em biết.
+	    
+	    
